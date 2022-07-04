@@ -1,3 +1,6 @@
 [submodule "oslap"]
 	path = oslap
 	url = https://github.com/sujitkongu/oslap.git
+[submodule "subdir"]
+	path = subdir
+	url = .\\subdir\\
